@@ -3,5 +3,7 @@ orange
 banana
 watermalon
 mango
+strowbary
+lemon
 kiwi
 bluebarry
